@@ -1,4 +1,4 @@
-# Long-term_time_series_Labor_force_survey
+# long-term_time_series_labor_force_survey
 　【和歌山県　長期時系列　労働力調査です。】
 ◆労働力調査とは
 国民の就業及び不就業の状態を明らかにすることを目的とし、昭和21年９月以降毎月国において実施しています。  
